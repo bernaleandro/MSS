@@ -1,0 +1,23 @@
+===============================================================
+Universidad Abierta Interamericana                     2do año
+Ingenieria en Sistemas Informaticos                 Sede Lomas
+===============================================================
+		      Martinez Sale System
+                             (MSS)
+                Developer: Bernal, Leandro Ariel
+===============================================================
+
+ Programa creado en C# haciendo uso de programacion por capas
+              y aplicacion de base de datos en SQL. 
+
+      Desarrolado para la entrega de trabajo integrador de 
+         asignatura para Lenguajes de Ultima Generacion.
+
+
+        Esperar ser entregado a Martinez, Jorge Eduardo
+
+===============================================================
+
+
+
+        

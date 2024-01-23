@@ -1,0 +1,12 @@
+<xml>
+   <Roles>
+      <rol>
+         <nombre>Administrador </nombre>
+         <Permiso>10 Permisos</Permiso>
+      </rol>
+      <rol>
+         <nombre> Empleado </nombre>
+         <Permiso> 6 Permisos </Permiso>
+      </rol>
+    </Roles>
+</xml>
